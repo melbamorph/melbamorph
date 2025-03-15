@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Melanie** but you can find me at **melbamorph** on most of my socials. I'm a tech explorer and innovator who is learning in the open and exploring how to build good things for local government use. I'm an AI enthusiast, a human enthusiast, enjoy 3D printing, and raising chickens in my backyard. 
+My name is **Melanie** but you can find me at **melbamorph** on most of my socials. I'm a tech explorer and innovator who is learning in the open and exploring how to build good things for local government use. I'm an AI enthusiast, a human enthusiast, enjoy 3D printing, and raising chickens in my backyard. 
 
 A few more things:
 
