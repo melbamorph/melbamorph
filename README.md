@@ -8,3 +8,14 @@ A few more things:
 - 🌱 I’m currently learning how to use GitHub to back up my Replit apps and build new things.
 - ⚡ Fun fact: I have an Amazon Astro robot and hoping he gets an Alexa+ brainlift soon.
 
+          |
+                                      \ _ /
+                                    -= (_) =-
+   .\/.                               /   \
+.\\//o\\                      ,\/.      |              ,~
+//o\\|,\/.   ,.,.,   ,\/.  ,\//o\\                     |\
+  |  |//o\  /###/#\  //o\  /o\\|                      /| \
+^^|^^|^~|^^^|' '|:|^^^|^^^^^|^^|^^^""""""""("~~~~~~~~/_|__\~~~~~~~~~~
+ .|'' . |  '''""'"''. |`===`|''  '"" "" " (" ~~~~ ~ ~======~~  ~~ ~
+ jgs^^   ^^^ ^ ^^^ ^^^^ ^^^ ^^ ^^ "" """( " ~~~~~~ ~~~~~  ~~~ ~
+
